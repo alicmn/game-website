@@ -1,5 +1,7 @@
 # How to Play the Games
 
+These games are developed using Bootstrap and pure JavaScript.
+
 ## Step 1: Open the Game Site
 - Navigate to the `src` folder and open the `index.html` file.
 - This will launch the game site in your browser.
